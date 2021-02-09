@@ -27,10 +27,10 @@ Inside this repository are the scripts to create each of the tables and procedur
 ## Getting Started
 
 ##### Requirements
--Visual Studio 2017
--MS SQL Server 2016
--SQL Server Integration Server
--SQL Server Management Studio 2018
+- Visual Studio 2017
+- MS SQL Server 2016
+- SQL Server Integration Server
+- SQL Server Management Studio 2018
 
 ##### Steps to pulling repo to a directory
 1. Create a new local repository on your machine
